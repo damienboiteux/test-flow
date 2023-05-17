@@ -6,3 +6,6 @@
 - git add .
 - git commit -m "Commit Initial"
 - git remote add origin gh repo clone damienboiteux/test-flow
+
+# Séance 1
+- points abordés
