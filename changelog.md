@@ -9,3 +9,6 @@
 
 # Séance 1
 - points abordés
+
+# Séance 2
+- points abordés
